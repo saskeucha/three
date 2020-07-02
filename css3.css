@@ -1,0 +1,13 @@
+#container {
+  display: flex;
+}
+figure {
+  width: 150px;
+  height: 150px;
+  margin: 5;
+}
+img {
+	border: 2px dotted blue;
+  width: 150px;
+  height: 150px;
+}
